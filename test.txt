@@ -1,0 +1,7 @@
+12323234
+
+D:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;D:\git\TortoiseGit\bin
+
+
+
+23423424234
